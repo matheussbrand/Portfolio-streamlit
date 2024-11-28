@@ -13,30 +13,31 @@ about_me:
   github: https://github.com/matheussbrand
   linkedin: https://www.linkedin.com/in/matheussbrandao/
   email: mailto:matheussilbrand@gmail.com
-  youtube_link: https://youtube.com
+  youtube_link: https://www.youtube.com/@Cyb3rData
   odysee: https://youtube.com
 
   links:
-    - title: Python and R
-      url: http://www.google.com
-      image: https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/Python.png
+    links:
+    - title: Financial Performance Dashboard
+      url: https://drive.google.com/file/d/1a6fHDyb8PSLXL6LO1_pD3l_POAvxv5pn/view?usp=sharing
+      image: https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/Dashboard_Fin.png
 
-    - title: SQL and DataViz
-      url: http://www.google.com
-      image: https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/SQL.png
+    - title: SkyChain - API and Cloud Integration Framework
+      url: https://github.com/matheussbrand/skychain
+      image: https://raw.githubusercontent.com/matheussbrand/skychain/refs/heads/main/img/logo.png
 
-    - title: C++, .NET and php
-      url: http://www.google.com
-      image: https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/C.png
+    - title: Snake Game + AI
+      url: https://github.com/matheussbrand/DataScienceProjects/blob/main/Snake_Game_AI.py
+      image: https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/snake%2Bai.png
 
-    - title: JS, NodeJS and TS
-      url: http://www.google.com
-      image: https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/JavaScript.png
+    - title: Construction Heuristic For Traveling Salesman Problem (TSP)
+      url: https://github.com/matheussbrand/Python-Projects/blob/main/Scripts/Traveling Salesman Problem (TSP).py
+      image: https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/Construction%20Heuristic%20For%20Traveling%20Salesman%20Problem%20(TSP).png
     
     - title: More
       url: https://github.com/matheussbrand
       image: &code_img https://raw.githubusercontent.com/matheussbrand/Portfolio-streamlit/refs/heads/main/portfolio_app/images/menu/code.jpg
-
+    
   # youtube:
   #   - title: Youtube Video 1
   #     url: https://youtu.be/JSeQSnGovSE
